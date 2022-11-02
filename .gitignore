@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+.DS_Store
+
+cmake-build-debug
+
+test.in
+input.txt
