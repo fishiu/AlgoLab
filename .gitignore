@@ -4,6 +4,7 @@
 .DS_Store
 
 cmake-build-debug
+build
 
 test.in
 input.txt
